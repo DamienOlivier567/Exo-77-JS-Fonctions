@@ -4,7 +4,17 @@ function txtReturn() {
     return "monTexte";
 }
 
+function txtInsert(texte){
+    return texte
+}
 
+txtInsert('J aime le Javascript');
+
+function backgroundSet(txt){
+    return txt
+}
+
+backgroundSet('magenta')
 
 
 
